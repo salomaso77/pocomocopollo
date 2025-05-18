@@ -223,3 +223,87 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [21:07:50] [Async Chat Thread - #12/INFO]: [Not Secure] <iCsar> qq
 [21:07:55] [Async Chat Thread - #12/INFO]: [Not Secure] <iCsar> anda en bygdrock
 [21:08:01] [Async Chat Thread - #12/INFO]: [Not Secure] <iVerzaay> zi
+[21:09:55] [Server thread/INFO]: iCsar issued server command: /gamemode creative
+[21:09:55] [Server thread/INFO]: [iCsar: Set own game mode to Creative Mode]
+[21:10:21] [Server thread/INFO]: iCsar issued server command: /gamemode survival
+[21:10:21] [Server thread/INFO]: [iCsar: Set own game mode to Survival Mode]
+[21:10:37] [Async Chat Thread - #14/INFO]: [Not Secure] <iCsar> Z7MY
+[21:11:11] [Async Chat Thread - #14/INFO]: [Not Secure] <iCsar> ZUMY
+[21:11:14] [Async Chat Thread - #14/INFO]: [Not Secure] <iVerzaay> Q
+[21:11:18] [Server thread/INFO]: iCsar issued server command: /tpahere
+[21:11:27] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:11:30] [Server thread/INFO]: iVerzaay issued server command: /tpaccept
+[21:11:39] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:11:45] [Async Chat Thread - #14/INFO]: [Not Secure] <iVerzaay> para
+[21:12:07] [Async Chat Thread - #14/INFO]: [Not Secure] <iCsar> llegamo
+[21:12:08] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:12:33] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:12:57] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:12:59] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:00] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:01] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:01] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:04] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:05] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:06] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:08] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:09] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:12] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:14] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:14] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:15] [Server thread/INFO]: iCsar lost connection: Disconnected
+[21:13:15] [Server thread/INFO]: iCsar left the game
+[21:13:23] [User Authenticator #4/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[21:13:24] [Server thread/INFO]: iCsar joined the game
+[21:13:24] [Server thread/INFO]: iCsar[/127.133.175.138:34515] logged in with entity id 4403 at ([world_bracken_glacium]262.69999998807907, 1.0, -306.69999998807907)
+[21:13:30] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> súper bug estaba
+[21:13:31] [Async Chat Thread - #16/INFO]: [Not Secure] <iVerzaay> espera
+[21:13:32] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:13:35] [Async Chat Thread - #16/INFO]: [Not Secure] <iCsar> espero
+[21:14:40] [Server thread/INFO]: iVerzaay was doomed to fall by Breeze
+[21:14:49] [Async Chat Thread - #18/INFO]: [Not Secure] <iCsar> Que
+[21:15:51] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> ya
+[21:15:56] [Server thread/INFO]: iVerzaay issued server command: /tpa iCsar
+[21:16:06] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> acepta
+[21:16:07] [Server thread/INFO]: iCsar issued server command: /tpahere iVerzaay
+[21:16:12] [Server thread/INFO]: iVerzaay issued server command: /tpaccept
+[21:16:13] [Server thread/INFO]: iVerzaay issued server command: /tpaccept
+[21:16:13] [Server thread/INFO]: iVerzaay issued server command: /tpaccept
+[21:16:24] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> llegam
+[21:16:35] [Server thread/INFO]: iVerzaay has made the advancement [Nothing here.]
+[21:16:38] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> ZUMY
+[21:16:40] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> llegamos
+[21:16:45] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> ke
+[21:16:48] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> so
+[21:16:55] [Server thread/INFO]: iCsar issued server command: /tp iVerzaay
+[21:16:55] [Server thread/INFO]: [iCsar: Teleported iCsar to iVerzaay]
+[21:17:01] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> no te veo
+[21:17:06] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> x2
+[21:17:06] [Server thread/INFO]: iVerzaay has made the advancement [Reverse Lootbox]
+[21:17:09] [Server thread/ERROR]: Failed to read field (Particle={color:[1.0d,0.0d,0.0d],type:"dust"}): No key scale in MapLike[{color:[1.0d,0.0d,0.0d],type:"dust"}]
+[21:17:09] [Server thread/ERROR]: Failed to read field (Particle={color:[1.0d,0.0d,0.0d],type:"dust"}): No key scale in MapLike[{color:[1.0d,0.0d,0.0d],type:"dust"}]
+[21:17:14] [Async Chat Thread - #22/INFO]: [Not Secure] <iVerzaay> ya
+[21:17:15] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [-4, -13], pos: MutableBlockPos{x=-49, y=126, z=-199}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bracken:sanctum/pipes]
+[21:17:17] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> donde estas
+[21:17:19] [Server thread/ERROR]: Failed to read field (Particle={color:[1.0d,0.0d,0.0d],type:"dust"}): No key scale in MapLike[{color:[1.0d,0.0d,0.0d],type:"dust"}]
+[21:17:19] [Server thread/ERROR]: Failed to read field (Particle={color:[1.0d,0.0d,0.0d],type:"dust"}): No key scale in MapLike[{color:[1.0d,0.0d,0.0d],type:"dust"}]
+[21:17:22] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [-9, 7], pos: MutableBlockPos{x=-131, y=127, z=112}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bracken:sanctum/pipes]
+[21:17:22] [Server thread/INFO]: iVerzaay has made the advancement [Ice Bucket Challenge]
+[21:17:24] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> ni idea
+[21:17:29] [Server thread/ERROR]: Failed to read field (Particle={color:[1.0d,0.0d,0.0d],type:"dust"}): No key scale in MapLike[{color:[1.0d,0.0d,0.0d],type:"dust"}]
+[21:17:36] [Server thread/INFO]: iCsar issued server command: /effect clear
+[21:17:36] [Server thread/INFO]: [iCsar: Removed every effect from iCsar]
+[21:17:39] [Server thread/ERROR]: Failed to read field (Particle={color:[1.0d,0.0d,0.0d],type:"dust"}): No key scale in MapLike[{color:[1.0d,0.0d,0.0d],type:"dust"}]
+[21:17:45] [Server thread/INFO]: iCsar issued server command: /tpa iVerzaay
+[21:18:00] [Server thread/INFO]: iCsar issued server command: /tpa iVerzaay
+[21:18:05] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> acepta
+[21:18:08] [Server thread/INFO]: iVerzaay issued server command: /tpaccept
+[21:18:11] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> acepta
+[21:18:12] [Server thread/INFO]: iCsar issued server command: /tpa iVerzaay
+[21:18:15] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> ya
+[21:18:16] [Server thread/INFO]: iVerzaay issued server command: /tpaccept
+[21:18:19] [Server thread/INFO]: iCsar issued server command: /tpa iVerzaay
+[21:18:20] [Server thread/INFO]: iCsar issued server command: /tpa iVerzaay
+[21:18:22] [Server thread/INFO]: iVerzaay issued server command: /tpaccept
+[21:18:41] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> estamos arriba o abajo
+[21:18:45] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> abajo
