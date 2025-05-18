@@ -307,3 +307,71 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [21:18:22] [Server thread/INFO]: iVerzaay issued server command: /tpaccept
 [21:18:41] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> estamos arriba o abajo
 [21:18:45] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> abajo
+[21:18:59] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> subamos
+[21:19:12] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> ah
+[21:19:15] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> esta dimension
+[21:19:25] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> Y ESO
+[21:19:37] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> arriba llegamos a otra dimension creo
+[21:19:41] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> si
+[21:20:08] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> acá hay tornados cuidado
+[21:20:09] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [-4, 10], pos: MutableBlockPos{x=-64, y=142, z=160}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bracken:sanctum/pipes]
+[21:20:25] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> q
+[21:20:31] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> XDDD
+[21:20:37] [Server thread/INFO]: iCsar fell from a high place
+[21:20:39] [Async Chat Thread - #20/INFO]: [Not Secure] <iVerzaay> XDDD
+[21:20:41] [Async Chat Thread - #20/INFO]: [Not Secure] <iCsar> poruqe
+[21:20:43] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [-6, 13], pos: MutableBlockPos{x=-92, y=142, z=208}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bracken:sanctum/pipes]
+[21:20:43] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [-5, 13], pos: MutableBlockPos{x=-76, y=140, z=208}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bracken:sanctum/pipes]
+[21:20:45] [Server thread/INFO]: iCsar issued server command: /back
+[21:20:45] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [-9, 12], pos: MutableBlockPos{x=-129, y=140, z=200}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / bracken:sanctum/pipes]
+[21:21:24] [Server thread/INFO]: iCsar fell from a high place
+[21:21:26] [Server thread/INFO]: iCsar issued server command: /back
+[21:22:19] [Async Chat Thread - #23/INFO]: [Not Secure] <iCsar> bajemos
+[21:22:25] [Async Chat Thread - #23/INFO]: [Not Secure] <iVerzaay> oka
+[21:22:27] [Server thread/INFO]: iVerzaay has made the advancement [Vitrified Lands]
+[21:22:33] [Server thread/INFO]: iCsar issued server command: /tp iVerzaay
+[21:22:33] [Server thread/INFO]: [iCsar: Teleported iCsar to iVerzaay]
+[21:22:42] [Server thread/INFO]: iCsar has made the advancement [Vitrified Lands]
+[21:23:23] [Async Chat Thread - #23/INFO]: [Not Secure] <iVerzaay> XDD
+[21:23:31] [Server thread/INFO]: iCsar fell from a high place
+[21:23:42] [Server thread/INFO]: iCsar issued server command: /tp iVerzaay
+[21:23:42] [Server thread/INFO]: [iCsar: Teleported iCsar to iVerzaay]
+[21:24:11] [Server thread/INFO]: iCsar fell from a high place
+[21:24:15] [Server thread/INFO]: iCsar issued server command: /tp iVerzaay
+[21:24:15] [Server thread/INFO]: [iCsar: Teleported iCsar to iVerzaay]
+[21:24:26] [Server thread/INFO]: iCsar issued server command: /back
+[21:24:32] [Async Chat Thread - #25/INFO]: [Not Secure] <iVerzaay> q
+[21:24:35] [Async Chat Thread - #25/INFO]: [Not Secure] <iVerzaay> y tus cosas
+[21:24:35] [Server thread/INFO]: iCsar issued server command: /back
+[21:24:39] [Async Chat Thread - #26/INFO]: [Not Secure] <iCsar> las perdi
+[21:24:44] [Async Chat Thread - #26/INFO]: [Not Secure] <iVerzaay> no bueno
+[21:24:46] [Server thread/INFO]: iVerzaay has made the advancement [Otherworldly Waypoint]
+[21:24:56] [Server thread/INFO]: iCsar fell from a high place
+[21:24:59] [Server thread/INFO]: iCsar issued server command: /back
+[21:25:03] [Server thread/INFO]: iCsar issued server command: /back
+[21:25:05] [Async Chat Thread - #26/INFO]: [Not Secure] <iVerzaay> q
+[21:25:06] [Async Chat Thread - #26/INFO]: [Not Secure] <iVerzaay> q
+[21:25:15] [Async Chat Thread - #26/INFO]: [Not Secure] <iVerzaay> deep dark
+[21:25:16] [Async Chat Thread - #26/INFO]: [Not Secure] <iCsar> que fue
+[21:25:35] [Server thread/INFO]: iVerzaay has made the advancement [Sneak 100]
+[21:25:48] [Server thread/INFO]: iCsar issued server command: /tp iVerzaay
+[21:25:48] [Server thread/INFO]: [iCsar: Teleported iCsar to iVerzaay]
+[21:25:48] [Server thread/INFO]: iCsar has made the advancement [Otherworldly Waypoint]
+[21:26:16] [Async Chat Thread - #27/INFO]: [Not Secure] <iVerzaay> ven
+[21:27:02] [Async Chat Thread - #27/INFO]: [Not Secure] <iVerzaay> cesar
+[21:27:12] [Async Chat Thread - #27/INFO]: [Not Secure] <iCsar> que
+[21:27:12] [Async Chat Thread - #27/INFO]: [Not Secure] <iVerzaay> te acordas que eran como 100 capas de obsidiana
+[21:27:13] [Async Chat Thread - #27/INFO]: [Not Secure] <iVerzaay> XD
+[21:27:17] [Async Chat Thread - #27/INFO]: [Not Secure] <iCsar> XD
+[21:27:21] [Async Chat Thread - #27/INFO]: [Not Secure] <iCsar> si
+[21:27:30] [Async Chat Thread - #27/INFO]: [Not Secure] <iVerzaay> que hacemos entonces
+[21:27:35] [Async Chat Thread - #28/INFO]: [Not Secure] <iCsar> picar
+[21:27:55] [Async Chat Thread - #28/INFO]: [Not Secure] <iCsar> dejalo en automático
+[21:28:06] [Async Chat Thread - #28/INFO]: [Not Secure] <iVerzaay> como
+[21:28:14] [Async Chat Thread - #28/INFO]: [Not Secure] <iCsar> no se
+[21:28:31] [Async Chat Thread - #28/INFO]: [Not Secure] <iVerzaay> aya
+[21:28:42] [Async Chat Thread - #28/INFO]: [Not Secure] <iVerzaay> CESAR DONDE ESTASI
+[21:28:45] [Async Chat Thread - #28/INFO]: [Not Secure] <iCsar> NO SE
+[21:28:48] [Server thread/INFO]: iCsar issued server command: /tp iVerzaay
+[21:28:48] [Server thread/INFO]: [iCsar: Teleported iCsar to iVerzaay]
+[21:28:53] [Async Chat Thread - #27/INFO]: [Not Secure] <iCsar> te vi
