@@ -1,46 +1,155 @@
-[01:32:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[01:32:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[01:32:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:32:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[01:32:32] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
-[01:32:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:32:42] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[01:32:42] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[01:32:43] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 10829ms.
-[01:32:43] [ServerMain/INFO]: No existing world data, creating new world
-[01:32:44] [ServerMain/INFO]: Loaded 1290 recipes
-[01:32:44] [ServerMain/INFO]: Loaded 1399 advancements
-[01:32:44] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:32:44] [Server thread/INFO]: Loading properties
-[01:32:44] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[01:32:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:32:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:32:45] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:32:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:32:46] [Server thread/INFO]: Default game type: SURVIVAL
-[01:32:46] [Server thread/INFO]: Generating keypair
-[01:32:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:32:46] [Server thread/INFO]: Using epoll channel type
-[01:32:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:32:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:32:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:32:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:32:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:32:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:32:46] [Server thread/INFO]: Preparing level "world"
-[01:33:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:33:09] [Server thread/INFO]: Time elapsed: 8925 ms
-[01:33:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:33:11] [Server thread/INFO]: Time elapsed: 1670 ms
-[01:33:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:33:11] [Server thread/INFO]: Time elapsed: 499 ms
-[01:33:12] [Server thread/INFO]: [spark] Starting background profiler...
-[01:33:12] [Server thread/INFO]: Done preparing level "world" (25.671s)
-[01:33:12] [Server thread/INFO]: Running delayed init tasks
-[01:33:12] [Server thread/INFO]: Done (41.990s)! For help, type "help"
-[01:33:12] [Server thread/INFO]: *************************************************************************************
-[01:33:12] [Server thread/INFO]: This is the first time you're starting this server.
-[01:33:12] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[01:33:12] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[01:33:12] [Server thread/INFO]: *************************************************************************************
-[01:33:12] [Server thread/INFO]: Timings Reset
+[20:36:58] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[20:36:58] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-80-main@841d634 (2025-05-17T14:18:02Z) for Minecraft 1.21.5
+[20:36:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:36:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[20:37:00] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2119ms.
+[20:37:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[20:37:00] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - SimpleTpa (7.6), SkinsRestorer (15.6.3), ViaBackwards (5.3.2), ViaRewind (4.0.4), ViaVersion (5.3.2)
+[20:37:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:37:08] [Worker-Main-1/ERROR]: Couldn't parse data file 'bracken:average_weapons/golden/dagger' from 'bracken:recipe/average_weapons/golden/dagger.json': DataResult.Error['No key type in MapLike[{"attribute":"minecraft:sneaking_speed","id":"bracken:golden_dagger","amount":0.3,"operation":"add_value","slot":"mainhand"}] missed input: {"minecraft:attribute_modifiers":[{"type":"minecraft:attack_damage","id":"bracken:golden_dagger","amount":3,"operation":"add_value","slot":"mainhand"},{"attribute":"minecraft:sneaking_speed","id":"bracken:golden_dagger","amount":0.3,"operation":"add_value","slot":"mainhand"},{"type":"minecraft:sneaking_speed","id":"bracken:golden_dagger","amount":0.3,"operation":"add_value","slot":"offhand"},{"type":"minecraft:attack_speed","id":"bracken:golden_dagger","amount":-0.12,"operation":"add_value","slot":"mainhand"},{"type":"minecraft:entity_interaction_range","id":"bracken:golden_dagger","amount":-1,"operation":"add_value","slot":"mainhand"}]}': net.minecraft.world.item.crafting.ShapedRecipe@54ffcd95]
+[20:37:09] [ServerMain/INFO]: Loaded 1643 recipes
+[20:37:09] [ServerMain/INFO]: Loaded 1784 advancements
+[20:37:09] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[20:37:09] [Server thread/INFO]: Loading properties
+[20:37:09] [Server thread/INFO]: This server is running Paper version 1.21.5-80-main@841d634 (2025-05-17T14:18:02Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[20:37:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:37:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:37:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:37:11] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:37:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:37:11] [Server thread/INFO]: Default game type: SURVIVAL
+[20:37:11] [Server thread/INFO]: Generating keypair
+[20:37:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:37:11] [Server thread/INFO]: Using epoll channel type
+[20:37:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:37:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:37:12] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[20:37:12] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[20:37:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:37:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[20:37:13] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[20:37:13] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[20:37:14] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[20:37:14] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.3.2.jar' in folder 'plugins' (Is it up to date?)
+java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.EntityTypes1_8$ObjectType com.viaversion.viaversion.api.minecraft.entities.EntityTypes1_8$ObjectType.findById(int)'
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.protocol.v1_8to1_7_6_10.rewriter.EntityPacketRewriter1_8$3.register(EntityPacketRewriter1_8.java:144) ~[ViaRewind-4.0.4.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.api.protocol.remapper.PacketHandlers.<init>(PacketHandlers.java:38) ~[ViaVersion-5.3.2.jar:?]
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.protocol.v1_8to1_7_6_10.rewriter.EntityPacketRewriter1_8$3.<init>(EntityPacketRewriter1_8.java:130) ~[ViaRewind-4.0.4.jar:?]
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.protocol.v1_8to1_7_6_10.rewriter.EntityPacketRewriter1_8.registerPackets(EntityPacketRewriter1_8.java:130) ~[ViaRewind-4.0.4.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.api.rewriter.RewriterBase.register(RewriterBase.java:36) ~[ViaVersion-5.3.2.jar:?]
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.protocol.v1_8to1_7_6_10.Protocol1_8To1_7_6_10.registerPackets(Protocol1_8To1_7_6_10.java:62) ~[ViaRewind-4.0.4.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.api.protocol.AbstractProtocol.initialize(AbstractProtocol.java:106) ~[ViaVersion-5.3.2.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.protocol.ProtocolManagerImpl.registerProtocol(ProtocolManagerImpl.java:213) ~[ViaVersion-5.3.2.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.protocol.ProtocolManagerImpl.registerProtocol(ProtocolManagerImpl.java:207) ~[ViaVersion-5.3.2.jar:?]
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.api.ViaRewindPlatform.init(ViaRewindPlatform.java:55) ~[ViaRewind-4.0.4.jar:?]
+	at ViaRewind-4.0.4.jar/com.viaversion.viarewind.BukkitPlugin.lambda$new$0(BukkitPlugin.java:29) ~[ViaRewind-4.0.4.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.ViaManagerImpl.init(ViaManagerImpl.java:115) ~[ViaVersion-5.3.2.jar:?]
+	at ViaVersion-5.3.2.jar/com.viaversion.viaversion.ViaVersionPlugin.onLoad(ViaVersionPlugin.java:87) ~[ViaVersion-5.3.2.jar:?]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59) ~[paper-1.21.5.jar:1.21.5-80-841d634]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18) ~[paper-1.21.5.jar:1.21.5-80-841d634]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.21.5.jar:1.21.5-80-841d634]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.5.jar:1.21.5-80-841d634]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:567) ~[paper-1.21.5.jar:1.21.5-80-841d634]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:235) ~[paper-1.21.5.jar:1.21.5-80-841d634]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1161) ~[paper-1.21.5.jar:1.21.5-80-841d634]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308) ~[paper-1.21.5.jar:1.21.5-80-841d634]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:37:14] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[20:37:14] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.6
+[20:37:14] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
+[20:37:14] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.3
+[20:37:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:37:14] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
+[20:37:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.3
+[20:37:14] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.5.
+[20:37:15] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:37:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:37:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:37:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:37:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:37:15] [Server thread/INFO]: Preparing level "world"
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.3
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eb6dc6
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:37:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:37:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:37:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:17] [Server thread/INFO]: Preparing spawn area: 2%
+[20:37:17] [Server thread/INFO]: Preparing spawn area: 2%
+[20:37:18] [Server thread/INFO]: Time elapsed: 1127 ms
+[20:37:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:37:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:18] [Server thread/INFO]: Time elapsed: 368 ms
+[20:37:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:37:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:18] [Server thread/INFO]: Time elapsed: 140 ms
+[20:37:18] [Server thread/INFO]: Preparing start region for dimension bracken:dormis
+[20:37:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:21] [Server thread/INFO]: Preparing spawn area: 2%
+[20:37:21] [Server thread/INFO]: Preparing spawn area: 2%
+[20:37:21] [Server thread/INFO]: Preparing spawn area: 2%
+[20:37:22] [Server thread/INFO]: Preparing spawn area: 34%
+[20:37:22] [Server thread/INFO]: Time elapsed: 3584 ms
+[20:37:22] [Server thread/INFO]: Preparing start region for dimension bracken:varskspace
+[20:37:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:22] [Server thread/INFO]: Time elapsed: 164 ms
+[20:37:22] [Server thread/INFO]: Preparing start region for dimension bracken:void
+[20:37:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:22] [Server thread/INFO]: Time elapsed: 89 ms
+[20:37:22] [Server thread/INFO]: Preparing start region for dimension bracken:the_underdark
+[20:37:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:22] [Server thread/INFO]: Time elapsed: 153 ms
+[20:37:22] [Server thread/INFO]: Preparing start region for dimension bracken:glacium
+[20:37:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:22] [Server thread/INFO]: Time elapsed: 196 ms
+[20:37:22] [Server thread/INFO]: Preparing start region for dimension bracken:sanctum
+[20:37:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:22] [Server thread/INFO]: Time elapsed: 144 ms
+[20:37:22] [Server thread/INFO]: Preparing start region for dimension bracken:the_brine
+[20:37:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:23] [Server thread/INFO]: Time elapsed: 117 ms
+[20:37:23] [Server thread/INFO]: Preparing start region for dimension bracken:the_faewild
+[20:37:23] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:23] [Server thread/INFO]: Time elapsed: 81 ms
+[20:37:23] [Server thread/INFO]: Preparing start region for dimension bracken:omnidrome
+[20:37:23] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:23] [Server thread/INFO]: Time elapsed: 91 ms
+[20:37:23] [Server thread/INFO]: Preparing start region for dimension bracken:panacea
+[20:37:23] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:23] [Server thread/INFO]: Time elapsed: 255 ms
+[20:37:23] [Server thread/INFO]: Preparing start region for dimension bracken:pax
+[20:37:23] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:23] [Server thread/INFO]: Time elapsed: 183 ms
+[20:37:23] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[20:37:23] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.5 (770)
+[20:37:23] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[20:37:23] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.6
+[20:37:23] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[20:37:23] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.6
+[20:37:23] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[20:37:24] [Server thread/INFO]: [spark] Starting background profiler...
+[20:37:24] [Server thread/INFO]: Done preparing level "world" (8.838s)
+[20:37:24] [Server thread/INFO]: Running delayed init tasks
+[20:37:24] [Server thread/INFO]: Done (27.155s)! For help, type "help"
+[20:37:24] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[20:40:17] [User Authenticator #0/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[20:40:23] [Server thread/INFO]: iCsar joined the game
+[20:40:23] [Server thread/INFO]: iCsar[/127.133.175.138:53067] logged in with entity id 236 at ([world_bracken_glacium]463.5472742202647, 63.0, -30.785445315706262)
+[20:40:38] [Server thread/INFO]: iCsar lost connection: Disconnected
+[20:40:38] [Server thread/INFO]: iCsar left the game
+[20:46:35] [User Authenticator #1/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[20:46:37] [Server thread/INFO]: iCsar joined the game
+[20:46:37] [Server thread/INFO]: iCsar[/127.133.175.138:50135] logged in with entity id 323 at ([world_bracken_glacium]463.5472742202647, 63.0, -30.785445315706262)
