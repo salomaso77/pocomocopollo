@@ -193,3 +193,33 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [20:58:11] [Server thread/INFO]: iCsar issued server command: /gamemode survival
 [20:58:11] [Server thread/INFO]: [iCsar: Set own game mode to Survival Mode]
 [20:58:21] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> ahora full op
+[21:00:19] [Async Chat Thread - #6/INFO]: [Not Secure] <iCsar> hayamos de aca
+[21:00:36] [Async Chat Thread - #6/INFO]: [Not Secure] <iCsar> dav contesto?
+[21:00:40] [Async Chat Thread - #6/INFO]: [Not Secure] <iVerzaay> nose
+[21:00:49] [Server thread/INFO]: iCsar issued server command: /tpa iVerzaay
+[21:00:51] [Server thread/INFO]: iVerzaay issued server command: /tpaccept
+[21:01:08] [Server thread/INFO]: iCsar issued server command: /tpa iVerzaay
+[21:01:28] [Server thread/INFO]: iVerzaay issued server command: /back
+[21:01:42] [Server thread/INFO]: iVerzaay issued server command: /tpa iCsar
+[21:02:11] [Async Chat Thread - #8/INFO]: [Not Secure] <iVerzaay> andas en el barco?
+[21:02:18] [Async Chat Thread - #8/INFO]: [Not Secure] <iCsar> si
+[21:02:23] [Server thread/INFO]: iVerzaay issued server command: /tpa iCsar
+[21:02:32] [Server thread/INFO]: iCsar issued server command: /tpaccept
+[21:04:52] [Async Chat Thread - #10/INFO]: [Not Secure] <iCsar> ahora toca subir o bajar una de 2
+[21:05:04] [Async Chat Thread - #10/INFO]: [Not Secure] <iVerzaay> nose
+[21:05:10] [Async Chat Thread - #10/INFO]: [Not Secure] <iCsar> tu sube
+[21:05:13] [Async Chat Thread - #10/INFO]: [Not Secure] <iCsar> yo bajo
+[21:05:37] [Server thread/INFO]: iCsar has made the advancement [Stone Age]
+[21:05:56] [Server thread/INFO]: iCsar has made the advancement [Ice Bucket Challenge]
+[21:06:13] [Async Chat Thread - #12/INFO]: [Not Secure] <iCsar> no jodas todo abajo es obsidiana
+[21:06:16] [Async Chat Thread - #12/INFO]: [Not Secure] <iCsar> sobsob
+[21:06:51] [Async Chat Thread - #12/INFO]: [Not Secure] <iCsar> zumy
+[21:06:55] [Async Chat Thread - #12/INFO]: [Not Secure] <iVerzaay> q
+[21:07:28] [Async Chat Thread - #12/INFO]: [Not Secure] <iCsar> creo que David se durmió en la pc
+[21:07:37] [Async Chat Thread - #12/INFO]: [Not Secure] <iVerzaay> tiene la xbox prendida
+[21:07:38] [Server thread/INFO]: iCsar has made the advancement [Who is Cutting Onions?]
+[21:07:42] [Async Chat Thread - #12/INFO]: [Not Secure] <iVerzaay> esta jugando mc ahi
+[21:07:43] [Async Chat Thread - #12/INFO]: [Not Secure] <iVerzaay> XD!
+[21:07:50] [Async Chat Thread - #12/INFO]: [Not Secure] <iCsar> qq
+[21:07:55] [Async Chat Thread - #12/INFO]: [Not Secure] <iCsar> anda en bygdrock
+[21:08:01] [Async Chat Thread - #12/INFO]: [Not Secure] <iVerzaay> zi
