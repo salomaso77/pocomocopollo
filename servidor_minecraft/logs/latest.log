@@ -153,3 +153,43 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [20:46:35] [User Authenticator #1/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
 [20:46:37] [Server thread/INFO]: iCsar joined the game
 [20:46:37] [Server thread/INFO]: iCsar[/127.133.175.138:50135] logged in with entity id 323 at ([world_bracken_glacium]463.5472742202647, 63.0, -30.785445315706262)
+[20:48:17] [Server thread/INFO]: iCsar lost connection: Disconnected
+[20:48:17] [Server thread/INFO]: iCsar left the game
+[20:48:20] [User Authenticator #2/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[20:48:21] [Server thread/INFO]: iCsar joined the game
+[20:48:21] [Server thread/INFO]: iCsar[/127.133.175.138:57375] logged in with entity id 529 at ([world_bracken_glacium]461.24672061715813, 63.0, -61.0618785867549)
+[20:48:32] [Server thread/INFO]: iCsar lost connection: Disconnected
+[20:48:32] [Server thread/INFO]: iCsar left the game
+[20:48:33] [User Authenticator #2/INFO]: UUID of player iCsar is f588c112-eb43-3274-842c-1e06347702d7
+[20:48:34] [Server thread/INFO]: iCsar joined the game
+[20:48:34] [Server thread/INFO]: iCsar[/127.133.175.138:48531] logged in with entity id 547 at ([world_bracken_glacium]456.76037679186766, 63.0, -56.08711342040852)
+[20:51:58] [User Authenticator #3/INFO]: UUID of player iVerzaay is 7a00930f-f47d-33a9-8552-008138acc2c3
+[20:52:00] [Server thread/INFO]: iVerzaay joined the game
+[20:52:00] [Server thread/INFO]: iVerzaay[/127.25.203.18:58163] logged in with entity id 1162 at ([world_bracken_glacium]466.93773026347236, 63.0, -89.10923177182535)
+[20:52:10] [Async Chat Thread - #0/INFO]: [Not Secure] <iVerzaay> cesario eres tu
+[20:52:16] [Async Chat Thread - #0/INFO]: [Not Secure] <iCsar> si
+[20:54:18] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> gg
+[20:54:36] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> mira todo esto
+[20:55:27] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> vamos a tradesr
+[20:55:33] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> y david
+[20:55:38] [Async Chat Thread - #3/INFO]: [Not Secure] <iVerzaay> no me contesta
+[20:55:42] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> ff
+[20:55:50] [Async Chat Thread - #3/INFO]: [Not Secure] <iVerzaay> y el barco
+[20:56:00] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> nose
+[20:56:07] [Async Chat Thread - #3/INFO]: [Not Secure] <iCsar> mátate aver
+[20:56:16] [Server thread/INFO]: iCsar issued server command: /back
+[20:56:35] [Server thread/INFO]: iVerzaay withered away
+[20:56:39] [Async Chat Thread - #3/INFO]: [Not Secure] <iVerzaay> tpate
+[20:56:43] [Server thread/INFO]: iCsar issued server command: /tpa iVerzaay
+[20:56:46] [Server thread/INFO]: iVerzaay issued server command: /tpaccept
+[20:56:49] [Server thread/INFO]: iVerzaay issued server command: /back
+[20:57:21] [Server thread/INFO]: iCsar issued server command: /gamemode creative
+[20:57:21] [Server thread/INFO]: [iCsar: Set own game mode to Creative Mode]
+[20:57:30] [Server thread/INFO]: iVerzaay issued server command: /back
+[20:57:53] [Server thread/INFO]: iVerzaay issued server command: /back
+[20:57:59] [Server thread/INFO]: Villager Villager['Traveler'/214, uuid='f21477c5-6b13-48ae-ba6a-4d422292166a', l='ServerLevel[world_bracken_glacium]', x=289.50, y=63.50, z=-271.50, cpos=[18, -17], tl=24703, v=true] died, message: 'Traveler was slain by iCsar'
+[20:57:59] [Server thread/INFO]: Named entity Villager['Traveler'/214, uuid='f21477c5-6b13-48ae-ba6a-4d422292166a', l='ServerLevel[world_bracken_glacium]', x=289.50, y=63.50, z=-271.50, cpos=[18, -17], tl=24703, v=true] died: Traveler was slain by iCsar
+[20:58:01] [Server thread/INFO]: [@: Summoned new Traveler]
+[20:58:11] [Server thread/INFO]: iCsar issued server command: /gamemode survival
+[20:58:11] [Server thread/INFO]: [iCsar: Set own game mode to Survival Mode]
+[20:58:21] [Async Chat Thread - #4/INFO]: [Not Secure] <iCsar> ahora full op
